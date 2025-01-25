@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PortofoliApp</string>
+    <string name="introduce">Helo, Selamat datang\nSaya Software enginer</string>
+    <string name="myphoto">myphoto</string>
+    <string name="img_profile">img_profile</string>
+    <string name="img_hardskill">img_hardskill</string>
+    <string name="img_projects">img_projects</string>
+    <string name="img_contact">img_contact</string>
+    <string name="ic_disclaimer">ic_disclaimer</string>
+    <string name="disclaimer">Applikasi ini hanya untuk tugas portofolio saya\nTugas portofolio PWTS X RPL 2</string>
 </resources>

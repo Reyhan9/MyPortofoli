@@ -4,5 +4,6 @@
         <!-- Customize your dark theme here. -->
         <item name="colorPrimary">@color/grey</item>
         <item name="background">@color/dark</item>
+        <item name="titleTextColor">@color/snow</item>
     </style>
 </resources>
