@@ -8,4 +8,7 @@
     <string name="img_contact">img_contact</string>
     <string name="ic_disclaimer">ic_disclaimer</string>
     <string name="disclaimer">Applikasi ini hanya untuk tugas portofolio saya\nTugas portofolio PWTS X RPL 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_text">Saya adalah siswa SMK Plus Pelita Nusantara kelas 10 RPL 2 yang sedang menempuh pendidikan di bidang Rekayasa Perangkat Lunak. Memiliki ketertarikan dalam dunia teknologi, terutama dalam pengembangan perangkat lunak dan pemrograman.</string>
 </resources>

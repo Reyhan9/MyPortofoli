@@ -5,6 +5,7 @@
         <item name="colorPrimary">@color/white</item>
         <item name="background">@color/snow</item>
         <item name="titleTextColor">@color/dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
     </style>
 
     <style name="Theme.PortofoliApp" parent="Base.Theme.PortofoliApp" />

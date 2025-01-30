@@ -18,7 +18,8 @@
         android:letterSpacing=".04"
         android:lineSpacingExtra="10dp"
         android:layout_marginStart="20dp"
-        android:layout_marginBottom="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="90dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
@@ -40,6 +41,7 @@
             android:layout_height="130dp">
 
             <ImageButton
+                android:id="@+id/profile"
                 android:contentDescription="@string/img_profile"
                 android:background="@drawable/img_profile"
                 android:layout_marginStart="20dp"
@@ -48,6 +50,7 @@
                 android:layout_height="130dp" />
 
             <ImageButton
+                android:id="@+id/hardskill"
                 android:contentDescription="@string/img_hardskill"
                 android:background="@drawable/img_hardskill"
                 android:layout_marginStart="10dp"
@@ -56,6 +59,7 @@
                 android:layout_height="130dp"/>
 
             <ImageButton
+                android:id="@+id/project"
                 android:contentDescription="@string/img_projects"
                 android:background="@drawable/img_project"
                 android:layout_marginStart="10dp"
@@ -64,6 +68,7 @@
                 android:layout_height="130dp"/>
 
             <ImageButton
+                android:id="@+id/contact"
                 android:contentDescription="@string/img_contact"
                 android:background="@drawable/img_contact"
                 android:layout_marginStart="10dp"
