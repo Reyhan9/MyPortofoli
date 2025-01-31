@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/background_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SkillSheet">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:contentDescription="@string/img_projects"
+        android:background="@drawable/img_project"
+        android:translationY="-40dp"
+        android:layout_width="match_parent"
+        android:layout_height="235dp" />
+
+    <TextView
+        android:text="@string/project_text"
+        android:textSize="17sp"
+        android:textColor="?attr/titleTextColor"
+        android:paddingTop="20dp"
+        android:paddingStart="20dp"
+        android:paddingBottom="120dp"
+        android:translationY="-35dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

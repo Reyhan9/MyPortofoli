@@ -40,6 +40,15 @@ public class MainActivity extends AppCompatActivity {
             SkillSheet SkillSheet = new SkillSheet();
             SkillSheet.show(getSupportFragmentManager(), SkillSheet.getTag());
         });
+        btnProject.setOnClickListener(view -> {
+            ProjectSheet ProjectSheet = new ProjectSheet();
+            ProjectSheet.show(getSupportFragmentManager(), ProjectSheet.getTag());
+        });
+        btnContact.setOnClickListener(view -> {
+            ContactSheet ContactSheet = new ContactSheet();
+            ContactSheet.show(getSupportFragmentManager(), ContactSheet.getTag());
+        });
+
 
     }
 }
