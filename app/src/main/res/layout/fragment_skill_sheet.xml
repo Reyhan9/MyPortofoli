@@ -5,18 +5,18 @@
     android:background="@drawable/background_sheet"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ProfileSheet">
+    tools:context=".SkillSheet">
 
     <!-- TODO: Update blank fragment layout -->
     <ImageView
-        android:contentDescription="@string/img_profile"
-        android:background="@drawable/img_profile"
+        android:contentDescription="@string/img_hardskill"
+        android:background="@drawable/img_hardskill"
         android:translationY="-40dp"
         android:layout_width="match_parent"
         android:layout_height="235dp" />
 
     <TextView
-        android:text="@string/profile_text"
+        android:text="@string/skill_text"
         android:textSize="17sp"
         android:textColor="?attr/titleTextColor"
         android:padding="20dp"

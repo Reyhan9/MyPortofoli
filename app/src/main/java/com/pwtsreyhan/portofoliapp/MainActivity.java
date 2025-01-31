@@ -1,7 +1,7 @@
 package com.pwtsreyhan.portofoliapp;
 
 import android.os.Bundle;
-import android.view.View;
+
 import android.widget.ImageButton;
 
 import androidx.activity.EdgeToEdge;
@@ -35,6 +35,10 @@ public class MainActivity extends AppCompatActivity {
         btnProfile.setOnClickListener(view -> {
             ProfileSheet ProfileSheet = new ProfileSheet();
             ProfileSheet.show(getSupportFragmentManager(), ProfileSheet.getTag());
+        });
+        btnHardskill.setOnClickListener(view -> {
+            SkillSheet SkillSheet = new SkillSheet();
+            SkillSheet.show(getSupportFragmentManager(), SkillSheet.getTag());
         });
 
     }

@@ -11,4 +11,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="profile_text">Saya adalah siswa SMK Plus Pelita Nusantara kelas 10 RPL 2 yang sedang menempuh pendidikan di bidang Rekayasa Perangkat Lunak. Memiliki ketertarikan dalam dunia teknologi, terutama dalam pengembangan perangkat lunak dan pemrograman.</string>
+    <string name="skill_text">Saya sedang mempelajari Pengembangan Aplikasi Android dengan menggunakan java di Android Studio dan sebelumnya Saya pernah mempelajari Pengembangan Game menggunakan Blueprint di Unreal Engine 5 dan mempelajari sedikit animasi 3D.</string>
 </resources>
